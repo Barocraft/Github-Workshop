@@ -184,6 +184,6 @@ Her problem için test dosyası bulunmaktadır. PR açtığınızda:
 
 ---
 
-**Son Teslim Tarihi:** _Eğitmen tarafından belirlenecek_
+**Son Teslim Tarihi:** _Eğitmen tarafından belirlenecek (05.01.2025 09.30)_
 
 **Başarılar! 🚀**
